@@ -1,20 +1,21 @@
 {
   "name": "weather-api",
   "version": "1.0.0",
-  "main": "script.js",
+  "description": "A simple weather app that runs in the browser",
+  "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "live-server"
   },
+  "author": "",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MuniVinay9/Weather-API.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/MuniVinay9/Weather-API/issues"
   },
   "homepage": "https://github.com/MuniVinay9/Weather-API#readme",
-  "description": ""
+  "devDependencies": {},
+  "dependencies": {}
 }
